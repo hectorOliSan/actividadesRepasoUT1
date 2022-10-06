@@ -1,0 +1,7 @@
+nombre;text;-
+apellido;text;-
+edad;number;-
+sexo;radio;hombre,mujer
+hobbies;checkbox;deporte,música,cine,lectura
+estudios;textarea;-
+transporte;select;coche,moto,bicicleta,guagua
