@@ -1,81 +1,82 @@
 <?php
+  // RBB - 22/23
   $equipo = [
     0 => [
-      "nombre" => "Álvaro Valles",
+      "nombre" => "Claudio Bravo",
       "posición" => "Portero",
-      "dorsal" => "13",
-      "altura" => "190",
-      "peso" => "78"
+      "dorsal" => "1",
+      "altura" => "184",
+      "peso" => "84"
     ],
     1 => [
-      "nombre" => "Álex Suárez",
+      "nombre" => "Álex Moreno",
       "posición" => "Lateral Derecho",
-      "dorsal" => "4",
-      "altura" => "179",
-      "peso" => "72"
+      "dorsal" => "15",
+      "altura" => "176",
+      "peso" => "68"
     ],
     2 => [
-      "nombre" => "Sidnei",
-      "posición" => "Central",
-      "dorsal" => "18",
-      "altura" => "188",
-      "peso" => "81"
-    ],
-    3 => [
-      "nombre" => "Eric Curbelo",
+      "nombre" => "Víctor Ruiz",
       "posición" => "Central",
       "dorsal" => "6",
-      "altura" => "173",
-      "peso" => "69"
+      "altura" => "184",
+      "peso" => "80"
+    ],
+    3 => [
+      "nombre" => "G. Pezzella",
+      "posición" => "Central",
+      "dorsal" => "16",
+      "altura" => "187",
+      "peso" => "82"
     ],
     4 => [
-      "nombre" => "Sergi Cardona",
+      "nombre" => "Y. Sabaly",
       "posición" => "Lateral Izquierdo",
-      "dorsal" => "3",
-      "altura" => "185",
-      "peso" => "76"
+      "dorsal" => "23",
+      "altura" => "174",
+      "peso" => "68"
     ],
     5 => [
-      "nombre" => "Mfulu",
+      "nombre" => "William Carvalho",
       "posición" => "Centrocampista",
-      "dorsal" => "22",
-      "altura" => "182",
-      "peso" => "69"
+      "dorsal" => "14",
+      "altura" => "187",
+      "peso" => "83"
     ],
     6 => [
-      "nombre" => "Loiodice",
+      "nombre" => "Sergio Canales",
       "posición" => "Centrocampista",
-      "dorsal" => "12",
-      "altura" => "176",
-      "peso" => "60"
+      "dorsal" => "10",
+      "altura" => "180",
+      "peso" => "74"
     ],
     7 => [
-      "nombre" => "Jonathan Viera",
+      "nombre" => "Fekir",
       "posición" => "Centrocampista",
-      "dorsal" => "21",
-      "altura" => "170",
-      "peso" => "64"
+      "dorsal" => "8",
+      "altura" => "173",
+      "peso" => "72"
     ],
     8 => [
-      "nombre" => "Moleiro",
+      "nombre" => "Juanmi",
       "posición" => "Delantero",
-      "dorsal" => "10",
-      "altura" => "169",
-      "peso" => "67"
+      "dorsal" => "7",
+      "altura" => "172",
+      "peso" => "63"
     ],
     9 => [
-      "nombre" => "Marc Cardona",
+      "nombre" => "Borja Iglesias",
       "posición" => "Delantero",
-      "dorsal" => "19",
-      "altura" => "188",
-      "peso" => "81"
+      "dorsal" => "9",
+      "altura" => "187",
+      "peso" => "86"
     ],
     10 => [
-      "nombre" => "Álvaro Jiménez",
+      "nombre" => "Joaquín",
       "posición" => "Delantero",
-      "dorsal" => "15",
-      "altura" => "183",
-      "peso" => "70"
+      "dorsal" => "17",
+      "altura" => "179",
+      "peso" => "75"
     ]
   ];
 ?>
