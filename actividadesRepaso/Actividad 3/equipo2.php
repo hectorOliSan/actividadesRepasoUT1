@@ -1,81 +1,82 @@
 <?php
+  // FCB - 22/23
   $equipo = [
     0 => [
-      "nombre" => "Álvaro Valles",
+      "nombre" => "Marc-André Ter Stegen",
       "posición" => "Portero",
-      "dorsal" => "13",
-      "altura" => "190",
-      "peso" => "78"
+      "dorsal" => "1",
+      "altura" => "187",
+      "peso" => "85"
     ],
     1 => [
-      "nombre" => "Álex Suárez",
-      "posición" => "Lateral Derecho",
-      "dorsal" => "4",
-      "altura" => "179",
-      "peso" => "72"
+      "nombre" => "Héctor Bellerín",
+      "posición" => "Lateral derecho",
+      "dorsal" => "2",
+      "altura" => "177",
+      "peso" => "74"
     ],
     2 => [
-      "nombre" => "Sidnei",
+      "nombre" => "Ronald Araújo",
       "posición" => "Central",
-      "dorsal" => "18",
+      "dorsal" => "4",
       "altura" => "188",
-      "peso" => "81"
+      "peso" => "79"
     ],
     3 => [
-      "nombre" => "Eric Curbelo",
+      "nombre" => "Koundé",
       "posición" => "Central",
-      "dorsal" => "6",
-      "altura" => "173",
-      "peso" => "69"
+      "dorsal" => "23",
+      "altura" => "178",
+      "peso" => "70"
     ],
     4 => [
-      "nombre" => "Sergi Cardona",
+      "nombre" => "Jordi Alba",
       "posición" => "Lateral Izquierdo",
-      "dorsal" => "3",
-      "altura" => "185",
-      "peso" => "76"
+      "dorsal" => "18",
+      "altura" => "170",
+      "peso" => "68"
     ],
     5 => [
-      "nombre" => "Mfulu",
+      "nombre" => "Sergio Busquets",
       "posición" => "Centrocampista",
-      "dorsal" => "22",
-      "altura" => "182",
-      "peso" => "69"
+      "dorsal" => "5",
+      "altura" => "189",
+      "peso" => "76"
     ],
     6 => [
-      "nombre" => "Loiodice",
+      "nombre" => "Pedri",
       "posición" => "Centrocampista",
-      "dorsal" => "12",
-      "altura" => "176",
+      "dorsal" => "8",
+      "altura" => "174",
       "peso" => "60"
     ],
     7 => [
-      "nombre" => "Jonathan Viera",
+      "nombre" => "Gavi",
       "posición" => "Centrocampista",
-      "dorsal" => "21",
-      "altura" => "170",
-      "peso" => "64"
+      "dorsal" => "30",
+      "altura" => "173",
+      "peso" => "70"
     ],
     8 => [
-      "nombre" => "Moleiro",
+      "nombre" => "Ansu Fati",
       "posición" => "Delantero",
       "dorsal" => "10",
-      "altura" => "169",
-      "peso" => "67"
+      "altura" => "178",
+      "peso" => "66"
     ],
     9 => [
-      "nombre" => "Marc Cardona",
+      "nombre" => "Ousmane Dembélé",
       "posición" => "Delantero",
-      "dorsal" => "19",
-      "altura" => "188",
-      "peso" => "81"
+      "dorsal" => "7",
+      "altura" => "178",
+      "peso" => "67"
     ],
     10 => [
-      "nombre" => "Álvaro Jiménez",
+      "nombre" => "Robert Lewandowski",
       "posición" => "Delantero",
-      "dorsal" => "15",
-      "altura" => "183",
-      "peso" => "70"
+      "dorsal" => "9",
+      "altura" => "185",
+      "peso" => "81"
     ]
   ];
 ?>
